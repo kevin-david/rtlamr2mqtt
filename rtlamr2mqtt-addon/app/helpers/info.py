@@ -12,4 +12,4 @@ def origin_url():
     """
     Returns the origin URL of the application.
     """
-    return 'https://github.com/allangood/rtlamr2mqtt'
+    return 'https://github.com/kevin-david/rtlamr2mqtt'

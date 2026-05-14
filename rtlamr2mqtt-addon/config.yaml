@@ -1,14 +1,14 @@
 ---
-name: rtlamr2mqtt
+name: rtlamr2mqtt (Kevin fork)
 version: 2026.5.9-kevin1
 slug: rtlamr2mqtt
 panel_icon: mdi:gauge
-description: RTLAMR to MQTT Bridge
+description: RTLAMR to MQTT Bridge (Kevin fork)
 startup: application
 boot: auto
 map:
   - config:rw
-url: https://github.com/allangood/rtlamr2mqtt
+url: https://github.com/kevin-david/rtlamr2mqtt
 uart: true
 udev: true
 usb: true
